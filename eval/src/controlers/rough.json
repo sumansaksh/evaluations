@@ -1,0 +1,34 @@
+[
+    {
+     "name":"bahagi",
+     "actor":["vishu","shanti","sakshi"],
+     "languages":  ["english", "hindi"],
+     "director":["remo","diksha","chandan"],
+     "poster_url":"poter.com"
+      
+    },
+    {
+        "name":"game of thrones",
+        "actor":["vishu","shanti","sakshi"],
+        "languages":  [ "hindi"],
+        "director":["remo","diksha","chandan"],
+        "poster_url":"poter.com"
+         
+       },
+       {
+        "name":"green",
+        "actor":["vishu","shanti","sakshi"],
+        "languages":  ["english", "hindi"],
+        "director":["remo","diksha","chandan"],
+        "poster_url":"poter.com"
+         
+       },
+       {
+        "name":"war",
+        "actor":["vishu","shanti","sakshi"],
+        "languages":  ["english", "hindi"],
+        "director":["remo","diksha","chandan"],
+        "poster_url":"poter.com"
+         
+       }
+    ]
